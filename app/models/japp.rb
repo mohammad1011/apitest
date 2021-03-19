@@ -1,0 +1,2 @@
+class Japp < ApplicationRecord
+end
